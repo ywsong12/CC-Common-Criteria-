@@ -1,1 +1,1 @@
-# CC인증 관련 
+# CC(Common Criteria)인증
